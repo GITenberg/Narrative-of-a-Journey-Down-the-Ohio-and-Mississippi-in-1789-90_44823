@@ -1,0 +1,31 @@
+_repo: Narrative-of-a-Journey-Down-the-Ohio-and-Mississippi-in-1789-90_44823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44823-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Forman, Samuel S.
+    birthdate: 1765
+    deathdate: 1862
+    gutenberg_agent_id: '42935'
+    url: http://www.gutenberg.org/2009/agents/42935
+description: ''
+gutenberg_issued: '2014-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44823'
+  lccn: 03014069
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi River -- Description and travel'
+- !lcsh 'Forman, Samuel S., 1765-1862'
+- !lcc 'F350.5'
+- !lcsh 'Ohio River -- Description and travel'
+- !lcsh 'Frontier and pioneer life -- Mississippi River Valley'
+- !lcsh 'Frontier and pioneer life -- Ohio River Valley'
+title: Narrative of a Journey Down the Ohio and Mississippi in 1789-90
+url: http://www.gutenberg.org/ebooks/44823
